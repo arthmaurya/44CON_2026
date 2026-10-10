@@ -17,4 +17,4 @@ Windows kernel callbacks are heavily relied upon by EDRs and security products t
 
 ### Contact & Discussion
 * **LinkedIn:** [Arth Maurya](https://www.linkedin.com/in/arth-maurya/)
-* **Technical Documentation:** [Kernel Callback Integrity Bypass](https://arth.imbeddex.com/Kernel_stuff/Windows/Kernel-Callback-Integrity-Bypass/)
+* **Technical Documentation:** [Kernel Callback Integrity Bypass](https://arthmaurya.com/Kernel_stuff/Windows/Kernel-Callback-Integrity-Bypass/)
